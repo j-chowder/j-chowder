@@ -64,7 +64,7 @@ Currently doing research at CSNL and building side projects at UCLA.
 
 ### 🎵 favorite song
 <div align="center">
-<a href="https://open.spotify.com/track/4WPam8vjO4oVq7NF7qEuAW">
+<a href="https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7">
   <img src="https://raw.githubusercontent.com/j-chowder/j-chowder/main/odoriko.svg" width="100%" alt="踊り子 (Odoriko) — Vaundy"/>
 </a>
 </div>
@@ -77,6 +77,6 @@ Currently doing research at CSNL and building side projects at UCLA.
 
 [![Email](https://img.shields.io/badge/jadenc4003%40gmail.com-20232a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:jadenc4003@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/@j--chowder-20232a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/j-chowder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-20232a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)]([https://github.com/j-chowder](https://www.linkedin.com/in/jadenchou))
 
 </div>
