@@ -77,6 +77,6 @@ Currently doing research at CSNL and building side projects at UCLA.
 
 [![Email](https://img.shields.io/badge/jadenc4003%40gmail.com-20232a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:jadenc4003@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-20232a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)]([https://github.com/j-chowder](https://www.linkedin.com/in/jadenchou))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/jadenchou/)
 
 </div>
