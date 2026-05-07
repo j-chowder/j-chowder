@@ -79,7 +79,7 @@ Currently doing research at CSNL and building side projects at UCLA.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/portfolio-20232a?style=for-the-badge&logo=githubpages&logoColor=C084FC)](https://j-chowder.github.io)
+[![Portfolio](https://img.shields.io/badge/portfolio-20232a?style=for-the-badge&logo=githubpages&logoColor=C084FC)](https://j-chowder.github.io/j-chowder/)
 [![Email](https://img.shields.io/badge/jadenc4003%40gmail.com-20232a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:jadenc4003@gmail.com)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-20232a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/jaden-chou)
