@@ -70,8 +70,6 @@ Currently doing research at CSNL and building side projects at UCLA.
   <img src="https://raw.githubusercontent.com/j-chowder/j-chowder/main/odoriko.jpg" width="160" alt="Odoriko by Vaundy"/>
 </a>
 
-**odoriko** — Vaundy &nbsp;&nbsp;`踊り子`
-
 </div>
 
 ---
