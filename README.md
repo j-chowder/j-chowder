@@ -42,7 +42,7 @@ Outside of code: I've mentored and tutored students of all ages, which taught me
 ## Let's Connect
 
 📬 jadenc4003@gmail.com  
-🐙 [github.com/j-chowder](https://github.com/j-chowder)  
+🐙 [LinkedIn](https://www.linkedin.com/in/jadenchou/)
 📍 Los Angeles, CA  
 
 Always open to talk data, projects, or cool problems. Reach out.
