@@ -63,13 +63,10 @@ Currently doing research at CSNL and building side projects at UCLA.
 ---
 
 ### 🎵 favorite song
-
 <div align="center">
-
 <a href="https://open.spotify.com/track/4WPam8vjO4oVq7NF7qEuAW">
-  <img src="https://raw.githubusercontent.com/j-chowder/j-chowder/main/odoriko.jpg" width="160" alt="Odoriko by Vaundy"/>
+  <img src="https://raw.githubusercontent.com/j-chowder/j-chowder/main/odoriko.svg" width="100%" alt="踊り子 (Odoriko) — Vaundy"/>
 </a>
-
 </div>
 
 ---
