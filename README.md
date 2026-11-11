@@ -8,7 +8,7 @@
 
 <div align="center">
 
-**UCLA '29 &nbsp;·&nbsp; Statistics & Data Science &nbsp;·&nbsp; 4.0 GPA &nbsp;·&nbsp; Los Angeles, CA**
+**UCLA '28 &nbsp;·&nbsp; Statistics & Data Science &nbsp;·&nbsp; 4.0 GPA &nbsp;·&nbsp; Los Angeles, CA**
 
 I'm into data that's too messy, too big, or too uncertain to ignore.<br/>
 Currently doing research at CSNL and building side projects at UCLA.
